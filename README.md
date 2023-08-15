@@ -12,8 +12,8 @@ This is a Data Science project using the [120 years of Olympic history: athletes
 ## Prerequisites
 
 This is about learning Pandas, Numpy, and Matplotlib. One is expected to have Basic Python knowledge and know how to use the Jupyter environment.
-- Anaconda has be used as the tool to perporm the coding part.
-- To open the notebook, just run jupyter notebook from the project root directory.
+Anaconda has be used as the tool to perporm the coding part.
+To open the notebook, just run jupyter notebook from the project root directory.
 
 
 ## Visualization
